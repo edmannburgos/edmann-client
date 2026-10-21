@@ -13,7 +13,7 @@ This fork adds the following modules:
 - 🎣 **Rod Aimbot** — Helps with fishing-rod aiming.
 - 🧱 **Clutch** — Perform 3-block extensions on noobs like you're Dewier. I recommend setting it to **3**.
 - 🛡️ **BlockHit** — Automatically block-hits for you.
-- 😎 **Knockback displacement** - Displaces players kb with a flick.
+- 😎 **Knockback displacement** — Displaces a player's kb with a flick.
 
 ## 🖥️ Compatibility
 
