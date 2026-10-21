@@ -1,41 +1,46 @@
-# Raven B3 Fork
+# ⚔️ Raven B3 Fork
 
-A Minecraft Forge client forked from Raven B3, with additional modules for combat and clutch gameplay.
+A Minecraft Forge client forked from **Raven B3**, with some extra modules for combat and clutch gameplay. 🧱🎯
 
-## Features
+> 🚧 **Currently in development.** The current build may not work as intended.
+>
+> 🗓️ **Last updated:** October 21, 2026
+
+## ✨ Features
 
 This fork adds the following modules:
 
-- **Rod Aimbot** — Aims to assist with fishing-rod aiming.
-- **Clutch** — Perform 3 block extensions on noobs like you're Dewier. I recommend setting it to 3.
-- **BlockHit** — Autoblocks for you.
+- 🎣 **Rod Aimbot** — Helps with fishing-rod aiming.
+- 🧱 **Clutch** — Perform 3-block extensions on noobs like you're Dewier. 😎 I recommend setting it to **3**.
+- 🛡️ **BlockHit** — Automatically block-hits for you.
 
-## Compatibility
+## 🖥️ Compatibility
 
-- **Minecraft:** 1.8.9
-- **Mod loader:** Minecraft Forge
-- **Base client:** Raven B3
+- 🎮 **Minecraft:** 1.8.9
+- 🔧 **Mod loader:** Minecraft Forge
+- 🌿 **Base client:** Raven B3
 
-## Installation
+## 🛠️ Installation & Setup
 
-1. Clone this repository.
-2. Set the Gradle JVM to Java 17 JDK or higher in the Gradle tab of your IDE (IntelliJ), and set the Project SDK to Java 1.8 JDK.
-3. Once the import is finished, you can build the project with Gradle.
+1. 📥 Clone this repository.
+2. ☕ In IntelliJ IDEA, set the **Gradle JVM** to **Java 17 JDK or higher** in the Gradle settings.
+3. 🧩 Set the **Project SDK** to **Java 8 JDK**.
+4. ⏳ Wait for Gradle project import and dependency syncing to finish.
+5. 🏗️ Build the project using the Gradle tasks in your IDE.
 
-Installation may differ depending on how this repository is packaged. Check the project files and release notes for build-specific instructions.
+> 💡 **Tip:** The Gradle JVM and Project SDK are different settings. Use the versions listed above for this project.
 
-## Building from Source
+## ⚠️ Disclaimer
 
-1. Clone or download this repository.
-2. Open the project in a Java IDE or terminal.
-3. Follow the build instructions and dependency versions specified by the repository's Gradle or other build files.
-4. Run the project's configured build task.
+This client is a work in progress, and features may be incomplete or behave unexpectedly. Use it at your own risk and follow the rules of the Minecraft servers you play on. Modified clients and gameplay-assistance modules may be prohibited on some servers and could result in penalties, including bans.
 
-The exact Java version and build command depend on the project's configuration.
+## 🙌 Credits
 
-This project is an independent fork and is not necessarily affiliated with or endorsed by the original Raven B3 developers.
+- 🌿 **Raven B3** — The original client this project is based on.
+- 🧑‍💻 **Contributors** — Thanks to everyone who helps improve the fork.
 
-## Disclaimer
+This is an independent fork and is not necessarily affiliated with or endorsed by the original Raven B3 developers.
 
-Currently in Development. Current release may not work as intended.
+## 📄 License
 
+Check the original Raven B3 license and the terms covering code included in this fork before redistributing it. Make sure you have permission to redistribute the original code and any third-party components.
