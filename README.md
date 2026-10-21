@@ -1,8 +1,8 @@
 # ⚔️ Raven B3 Fork
 
-A Minecraft Forge client forked from **Raven B3**, with some extra modules for combat and clutch gameplay. 🧱🎯
+A Minecraft Forge client forked from **Raven B3**, with some extra modules for combat and clutch gameplay and improved gui🧱🎯
 
-> 🚧 **Currently in development.** The current build may not work as intended.
+> 🚧 **Currently in development.** The current build may not work as intended. gradlew may not work.
 >
 > 🗓️ **Last updated:** October 21, 2026
 
@@ -11,8 +11,9 @@ A Minecraft Forge client forked from **Raven B3**, with some extra modules for c
 This fork adds the following modules:
 
 - 🎣 **Rod Aimbot** — Helps with fishing-rod aiming.
-- 🧱 **Clutch** — Perform 3-block extensions on noobs like you're Dewier. 😎 I recommend setting it to **3**.
+- 🧱 **Clutch** — Perform 3-block extensions on noobs like you're Dewier. I recommend setting it to **3**.
 - 🛡️ **BlockHit** — Automatically block-hits for you.
+- 😎 **Knockback displacement** - Displaces players kb with a flick.
 
 ## 🖥️ Compatibility
 
@@ -29,15 +30,6 @@ This fork adds the following modules:
 5. 🏗️ Build the project using the Gradle tasks in your IDE.
 
 > 💡 **Tip:** The Gradle JVM and Project SDK are different settings. Use the versions listed above for this project.
-
-## ⚠️ Disclaimer
-
-This client is a work in progress, and features may be incomplete or behave unexpectedly. Use it at your own risk and follow the rules of the Minecraft servers you play on. Modified clients and gameplay-assistance modules may be prohibited on some servers and could result in penalties, including bans.
-
-## 🙌 Credits
-
-- 🌿 **Raven B3** — The original client this project is based on.
-- 🧑‍💻 **Contributors** — Thanks to everyone who helps improve the fork.
 
 This is an independent fork and is not necessarily affiliated with or endorsed by the original Raven B3 developers.
 
